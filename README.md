@@ -1,16 +1,31 @@
-# flash_chat
+# Flash Chat 
 
-A new Flutter project.
+*This application is a flutter based project which is designed for a fast and smooth chatting experience with your friends ,family or anyone.
 
-## Getting Started
+*Yours chats will be kept private and secured.
 
-This project is a starting point for a Flutter application.
+## How to use the Flash Chat App:
 
-A few resources to get you started if this is your first Flutter project:
+1.Go to the registration Screen enter your email and password for a new account and click on "Register".
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2.If you have an account already go to the log in screen , enter the required details and click on "Log In".
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3.Your previous chats will be displayed with the person if any.
+
+4.Now type your chat and click on "send" button your chat will be displayed on the screen. 
+
+
+## Screenshots
+
+### Main Screen
+![App Screenshot](https://github.com/Abhilash020/Flash-chat/blob/main/Screenshots/Main%20Screen.jpg?raw=true)
+
+### Registeration Screen
+![App Screenshot](https://github.com/Abhilash020/Flash-chat/blob/main/Screenshots/Registeration%20Screen.jpg?raw=true)
+
+### Log In Screen
+![App Screenshot](https://github.com/Abhilash020/Flash-chat/blob/main/Screenshots/Log%20In%20Screen.jpg?raw=true)
+
+### Chat Screen
+![App Screenshot](https://github.com/Abhilash020/Flash-chat/blob/main/Screenshots/Chat%20Screen.jpg?raw=true)
+
