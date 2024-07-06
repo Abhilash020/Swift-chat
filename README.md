@@ -1,10 +1,10 @@
-# Flash Chat 
+# Swift Chat 
 
 *This application is a flutter based project which is designed for a fast and smooth chatting experience with your friends ,family or anyone.
 
 *Yours chats will be kept private and secured.
 
-## How to use the Flash Chat App:
+## How to use the Swift Chat App:
 
 1.Go to the registration Screen enter your email and password for a new account and click on "Register".
 
