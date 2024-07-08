@@ -24,7 +24,7 @@
 ![App Screenshot](https://github.com/Abhilash020/Flash-chat/blob/main/Screenshots/Registeration%20Screen.jpg?raw=true)
 
 ### Log In Screen
-![App Screenshot](https://github.com/Abhilash020/Flash-chat/blob/main/Screenshots/Log%20In%20Screen.jpg?raw=true)
+![App Screenshot](https://github.com/Abhilash020/Swift-chat/blob/main/Screenshots/Log%20In%20Screen.jpg?raw=true)
 
 ### Chat Screen
 ![App Screenshot](https://github.com/Abhilash020/Flash-chat/blob/main/Screenshots/Chat%20Screen.jpg?raw=true)
